@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="_10">10%</string>
+    <string name="_20">20%</string>
+    <string name="cost_of_service">Cost of service</string>
+    <string name="_15">15%</string>
+    <string name="round_on_tip">Làm tròn số</string>
+    <string name="calculate">Tính</string>
+    <string name="result_tip">Kết quả: %s</string>6
+    <string name="select_option">Chọn giảm giá!</string>
+</resources>
